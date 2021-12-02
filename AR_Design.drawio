@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T08:25:33.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="lBv4KXoG-5EZbNn0zOp1" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-02T10:09:54.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="5yN87KQe1kDFjW3g--ie" version="15.8.8" type="github">
   <diagram id="8IbVw4KDkwodyjVfFZ6w" name="Page-1">
-    <mxGraphModel dx="1704" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="1190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -395,6 +395,9 @@
         </mxCell>
         <mxCell id="MAcez_I4XadyJKvCx32P-1" value="Feature storage&lt;br&gt;(MDB)" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=middle;fillColor=#3B8DF1;shape=mxgraph.gcp2.database_2;fontSize=15;fontColor=#FFFFFF;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="960" y="50" width="86.27" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="b0LIMU3j0KNa6xhddtog-1" value="&lt;div&gt;Things to tell more:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Deployments&lt;/div&gt;&lt;div&gt;- Logging&lt;/div&gt;&lt;div&gt;- Monitoring&lt;/div&gt;&lt;div&gt;- Alerting&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="126" y="1400" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
