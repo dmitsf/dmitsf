@@ -1,6 +1,5 @@
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dmitsf&count_private=true&hide=issues,contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+![](https://github-readme-streak-stats-eight.vercel.app/api?user=dmitsf&count_private=true&hide=issues,contribs,prs&show_icons=true&theme=dark)</br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dmitsf&theme=dark&background=000000)](https://git.io/streak-stats)
+![](https://github-contributor-stats.vercel.app/api?username=dmitsf&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitsf)](https://github.com/anuraghazra/github-readme-stats) -->
 
